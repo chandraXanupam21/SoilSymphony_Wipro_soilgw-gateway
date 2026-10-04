@@ -1,0 +1,9 @@
+build/
+logs/
+*.o
+*.ko
+*.mod*
+*.symvers
+modules.order
+.tmp_versions/
+*.d
